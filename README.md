@@ -1,4 +1,4 @@
-# 📸 Smart Attendance System using Face Recognition
+# 📸 Smart Attendance System using Face Recognition    LIVE LINK= "https://snap-class-main-svxzlqzdogu4avuzo4adgh.streamlit.app/"
 
 A web-based attendance system that automates classroom attendance using facial recognition. A teacher uploads **one group photograph** of the class, and the system detects, recognizes and marks attendance for every enrolled student in a single step.
 
@@ -112,27 +112,6 @@ This project replaces that process with an automated, face-recognition-based app
 
 ---
 
-## ⚙️ Installation & Setup
-
-```bash
-# 1. Clone the repository
-git clone <your-repo-url>
-cd <your-repo-folder>
-
-# 2. (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate        # On Windows: venv\Scripts\activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Add your Supabase credentials (URL and key) in the project's config / secrets file
-
-# 5. Run the app
-streamlit run app.py
-```
-
-> Replace the repository URL, folder name and entry file (`app.py`) with the ones used in your project.
 
 ---
 
