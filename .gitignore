@@ -9,3 +9,5 @@ venv/
 
 .streatlit/
 dist/
+
+.streamlit/secrets.toml
