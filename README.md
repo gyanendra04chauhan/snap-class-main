@@ -1,5 +1,5 @@
 # 📸 Smart Attendance System using Face Recognition   
-LIVE DEMO= 
+LIVE DEMO= "https://snap-class-main-u2tf7mejdvkgpn6g4mji9c.streamlit.app/"
 
 A web-based attendance system that automates classroom attendance using facial recognition. A teacher uploads **one group photograph** of the class, and the system detects, recognizes and marks attendance for every enrolled student in a single step.
 
